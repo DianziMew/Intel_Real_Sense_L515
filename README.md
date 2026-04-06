@@ -54,14 +54,26 @@
 
 
 
-# demoIRS_1
+<div align = "center"> 
+  <strong> demo1 </strong>
+  
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif)
 
-# demoIRS_2
+</div>
+
+<div align = "center"> 
+  <strong> demo2 </strong>
+  
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_2.gif)
 
-# demoIRS_3
+</div>
+
+<div align = "center"> 
+  <strong> demo3 </strong>
+  
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_3.gif)
+
+</div>
 
 ***1.Create your env with Conda to configure usage scenarios, with STEP.2.***
 ![image](https://github.com/user-attachments/assets/6b6dd585-910e-4122-919f-ee0a4a27974a)
