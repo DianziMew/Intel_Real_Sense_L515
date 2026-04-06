@@ -1,5 +1,9 @@
 
-# 🛰️ Intel® RealSense™ L515 LiDAR Toolkit
+<div align = "center"> 
+  
+  # 🛰️ Intel® RealSense™ L515 LiDAR Toolkit
+
+</div>
 <p align="center">
 <img src="https://img.shields.io/badge/Device-Intel%20RealSense%20L515-blue?style=for-the-badge&logo=intel" alt="Device">
 <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
