@@ -12,16 +12,24 @@
 </p>
 
 <p align="center">
-<strong>一套专为 Intel® RealSense™ L515 固态激光雷达打造的实时采集开发工具,本项目基于 MIT License 开源</strong>
+<strong>一套专为 Intel® RealSense™ L515 固态激光雷达打造的实时采集开发工具，本项目基于 MIT License 开源</strong>
 
 <strong>本项目旨在为 Intel® RealSense™ L515 用户提供简洁、高效的 Python 接口封装。通过本项目，开发者可以快速实现毫米级精度的深度数据采集、实时点云渲染以及 RGB-D 自动对齐</strong>
 <br />
-  
+
+<p align="center">
+<b>🌟 如果这个项目对你有帮助，欢迎点一个 Star！</b>
+</p>
+
 </p>
 
 <p align="center">
 <strong></strong>
 </p>
+
+
+
+
 
 
 
