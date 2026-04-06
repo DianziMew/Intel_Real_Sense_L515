@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-<strong>一套专为 Intel® RealSense™ L515 固态激光雷达打造的高性能开发工具集</strong>
+<strong>一套专为 Intel® RealSense™ L515 固态激光雷达打造的实时采集开发工具</strong>
 <br />
-专注于 3D 点云获取、深度图对齐及空间地理信息数字化处理。
+  
 </p>
 
 
