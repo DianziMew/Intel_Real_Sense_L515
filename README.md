@@ -19,8 +19,9 @@
   
 </p>
 
-
-
+<p align="center">
+<strong>本项目基于 MIT License 开源</strong>
+</p>
 
 
 
