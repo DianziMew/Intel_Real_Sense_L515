@@ -13,6 +13,8 @@
 
 <p align="center">
 <strong>一套专为 Intel® RealSense™ L515 固态激光雷达打造的实时采集开发工具</strong>
+
+  本项目旨在为 Intel® RealSense™ L515 用户提供简洁、高效的 Python 接口封装。通过本项目，开发者可以快速实现毫米级精度的深度数据采集、实时点云渲染以及 RGB-D 自动对齐
 <br />
   
 </p>
@@ -42,8 +44,6 @@
 
 
 
-
-# RGB-D with Intel RealSense Hardware: Intel RealSense L515 2024.11.23
 
 # demoIRS_1
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif)
