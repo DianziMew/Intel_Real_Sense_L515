@@ -1,7 +1,7 @@
 
 <div align = "center"> 
   
-  # 🛰️ Intel® RealSense™ L515 LiDAR Toolkit
+  # 🛰️ Intel® RealSense™ L515 LiDAR PyLive Toolkit
 
 </div>
 <p align="center">
