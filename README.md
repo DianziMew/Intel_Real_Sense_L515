@@ -37,23 +37,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align = "center"> 
   <strong> demo1 </strong>
   
@@ -74,6 +57,10 @@
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_3.gif)
 
 </div>
+
+
+
+<strong> tips PS：</strong>
 
 ***1.Create your env with Conda to configure usage scenarios, with STEP.2.***
 ![image](https://github.com/user-attachments/assets/6b6dd585-910e-4122-919f-ee0a4a27974a)
